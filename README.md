@@ -23,7 +23,7 @@ python3 DirForcer.py [-h] [-t TARGET] [-w WORDLIST] [-e]
 ```
 
 ### License
-DirForcer is released under the Apache 2.0 license. See [LICENSE](#license) for details.
+DirForcer is released under the Apache 2.0 license. See [LICENSE](#LICENSE) for details.
 
 ### Contact
 Feel free to contact me via e-mail: adadonderr@gmail.com

@@ -21,6 +21,8 @@ python3 DirForcer.py [-h] [-t TARGET] [-w WORDLIST] [-e]
   -e, --extension              An extension list to use while brute forcing. OPTIONAL
                                default: [ .php , .bak .orig, .inc ]
 ```
+DirForcer doesn't return the result if the HTTP status code receieved is 404 - Not Found. In other words, it only returns if the directory actually exists.
+
 #### There is a wordlist included with DirForcer (dirforcer_wordlist.txt). If you want to, feel free to use your own wordlist.
 
 ### License

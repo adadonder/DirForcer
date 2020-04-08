@@ -21,6 +21,7 @@ python3 DirForcer.py [-h] [-t TARGET] [-w WORDLIST] [-e]
   -e, --extension              An extension list to use while brute forcing. OPTIONAL
                                default: [ .php , .bak .orig, .inc ]
 ```
+#### There is a wordlist included with DirForcer (dirforcer_wordlist.txt). If you want to, feel free to use your own wordlist.
 
 ### License
 DirForcer is released under the Apache 2.0 license. See [LICENSE](https://github.com/adadonder/DirForcer/blob/master/LICENSE) for details.

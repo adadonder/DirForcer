@@ -3,7 +3,7 @@ DirForcer is a Python tool that brute forces websites to find directories or fil
 
 ### Installation
 ````
-$ pip install setup.py 
+$ python3 setup.py install
 ````
 or
 ````
